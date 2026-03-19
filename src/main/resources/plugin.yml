@@ -1,0 +1,7 @@
+name: bakemc-anarchia-tools
+version: '1.0.0'
+main: pl.arab.Main
+api-version: '1.21'
+authors: [ _arab__ ]
+description: WiseMC.PL
+website: https://discord.gg/ZVFjJUZeD3
