@@ -15,4 +15,5 @@ public class MessagesConfig extends OkaeriConfig {
     public String bedrockDestroyed = "&aZniszczono skałę macierzystą!";
     public String negativeEffectsRemoved = "&aUsunięto wszystkie negatywne efekty!";
     public String armorNotSetOrFull = "&cNie posiadasz założonego całego setu lub jest on w pełni naprawiony!";
+    public String bossbarWidmo = "&d&lBlok Widmo &8» &fKoniec efektu za: &e{TIME}";
 }
